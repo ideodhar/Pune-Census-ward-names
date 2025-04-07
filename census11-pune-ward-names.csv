@@ -1,0 +1,145 @@
+﻿admin_ward_no,ward_no,admin_name,ward_name
+1,0024,Aundh,Sanjay Gandhi hospital
+1,0025,Aundh,Bopodi
+1,0026,Aundh,Pune University
+1,0027,Aundh,Aundh gaanv
+1,0028,Aundh,Baner-Balewadi
+1,0029,Aundh,Sutarwadi
+1,0030,Aundh,Pashan
+1,0031,Aundh,Aundh ITI
+1,0032,Aundh,Rajbhavan
+2,0022,Ghole Road,Kamal Nayan Bajaj udyan
+2,0023,Ghole Road,Agricultural college
+2,0033,Ghole Road,Chaturshrungi mandir
+2,0034,Ghole Road,Model colony
+2,0035,Ghole Road,Modern college
+2,0036,Ghole Road,PMC bhavan
+2,0053,Ghole Road,Ferguson college
+2,0054,Ghole Road,Dr. Homi Bhabha hospital
+2,0055,Ghole Road,Gokhalenagar
+2,0056,Ghole Road,Vidhi mahavidyalay
+2,0067,Ghole Road,Deccan gymkhana
+3,0057,Kothrud (Karve Road),Shankarrao More school
+3,0058,Kothrud (Karve Road),Rambaug colony
+3,0059,Kothrud (Karve Road),Kishkinda nagar
+3,0060,Kothrud (Karve Road),Ramkrushna Paramhaus nagar
+3,0061,Kothrud (Karve Road),Vedbhavan
+3,0062,Kothrud (Karve Road),Mahatma society- kothrud
+3,0063,Kothrud (Karve Road),Vanaz company
+3,0064,Kothrud (Karve Road),Yashwantrao Chavan natyagruha
+3,0065,Kothrud (Karve Road),Ideal colony
+4,0066,Warje (Karve nagar),Deenanath mangeshkar hospital
+4,0105,Warje (Karve nagar),Major tathawade udyan
+4,0106,Warje (Karve nagar),Kothrud gaanv
+4,0107,Warje (Karve nagar),Happy colony
+4,0108,Warje (Karve nagar),Dahanukar colony
+4,0109,Warje (Karve nagar),Warje water purification pump
+4,0110,Warje (Karve nagar),Popular nagar-warje
+4,0111,Warje (Karve nagar),Warje malewadi
+4,0112,Warje (Karve nagar),Maharshri karve nagar
+4,0113,Warje (Karve nagar),Hingne women’s education trust
+5,0037,Dholepatil Road,Dr. Naidu hospital
+5,0038,Dholepatil Road,Bund garden
+5,0039,Dholepatil Road,Wadia college
+5,0040,Dholepatil Road,Koregaon park
+5,0041,Dholepatil Road,Mundhwa gaanv
+5,0045,Dholepatil Road,Vikasnagar-ghorpadi
+5,0046,Dholepatil Road,Dr. Babasaheb Ambedkar udyan
+5,0047,Dholepatil Road,Sassoon hospital
+5,0049,Dholepatil Road,Juna baazar
+6,0007,Nagar Road,Lohegaon airport
+6,0008,Nagar Road,Kharadi gaanv
+6,0009,Nagar Road,Kharadi infotech park
+6,0010,Nagar Road,Sundarbai Marathe park
+6,0011,Nagar Road,Wadgaon sheri
+6,0012,Nagar Road,Ramwadi
+6,0013,Nagar Road,Aga Khan palace
+6,0014,Nagar Road,Don Bosco high school
+6,0015,Nagar Road,Nagpur chawl
+7,0001,Sangamwadi,Dhanori
+7,0002,Sangamwadi,Vidyanagar Lohegaon
+7,0003,Sangamwadi,Tingrenagar piping station
+7,0004,Sangamwadi,Kalas Vishrantwadi
+7,0005,Sangamwadi,Nanasaheb Parulekar school
+7,0006,Sangamwadi,Yerwada prison press
+7,0016,Sangamwadi,Phulenagar-Yerwada
+7,0017,Sangamwadi,Netaji Subhash Chandra Bose school
+7,0018,Sangamwadi,Yerwada gaanv
+7,0019,Sangamwadi,Parnakuti
+7,0020,Sangamwadi,Yerwada hotmix plot
+7,0021,Sangamwadi,Deccan college
+8,0048,Bhavani Peth,Kamla Nehru hospital
+8,0073,Bhavani Peth,Tilak Aayurved hospital
+8,0074,Bhavani Peth,Rajewadi
+8,0075,Bhavani Peth,Harkanagar
+8,0076,Bhavani Peth,General Arunkumar Vaidya stadium
+8,0077,Bhavani Peth,Doke talim
+8,0078,Bhavani Peth,Swami Samartha mandir- Ganesh peth
+8,0083,Bhavani Peth,Ghorpade udyan
+8,0085,Bhavani Peth,Mahatma Phule Smarak
+8,0086,Bhavani Peth,Lohiyanagar
+8,0087,Bhavani Peth,Ekbote colony
+8,0088,Bhavani Peth,Gurunanak nagar
+9,0050,Kasaba-Vishram,Kasaba ganpati
+9,0051,Kasaba-Vishram,Shaniwar wada
+9,0052,Kasaba-Vishram,New English School (Ramanbaug)
+9,0068,Kasaba-Vishram,Rajendranagar
+9,0069,Kasaba-Vishram,Vishrambaug wada
+9,0070,Kasaba-Vishram,Mahatma Phule mandai
+9,0071,Kasaba-Vishram,City post
+9,0072,Kasaba-Vishram,Ganesh peth- gurudwara
+9,0079,Kasaba-Vishram,Dr. Kotnis clinic
+9,0080,Kasaba-Vishram,Renuka Swaroop prashala
+9,0081,Kasaba-Vishram,S.P. college
+9,0082,Kasaba-Vishram,Subhash nagar
+9,0084,Kasaba-Vishram,Pancha haud mission 
+10,0098,Sahkarnagar,Salisbury park
+10,0099,Sahkarnagar,Tilak Maharashtra school
+10,0100,Sahkarnagar,Parvati darshan
+10,0115,Sahkarnagar,Shahoo college
+10,0116,Sahkarnagar,Parvati industrial estate
+10,0117,Sahkarnagar,Maharshi nagar
+10,0118,Sahkarnagar,Chattrapati Shivaji marketyard
+10,0119,Sahkarnagar,DID colony
+10,0124,Sahkarnagar,Shankar Maharaj math
+10,0125,Sahkarnagar,Padmavati – Areneshwar
+10,0126,Sahkarnagar,Taljai mandir
+11,0101,Tilak Road,Parvati gaanv
+11,0102,Tilak Road,Parvati water centre
+11,0103,Tilak Road,Dandekar pul- Duttawadi
+11,0104,Tilak Road,P.L. Deshpande udyan
+11,0114,Tilak Road,Janata vasahat
+11,0127,Tilak Road,Anand nagar- Hingne khurd
+11,0128,Tilak Road,Vithalwadi
+11,0129,Tilak Road,Wadgaon- Dhayri
+11,0130,Tilak Road,Wadgaon budruk
+11,0131,Tilak Road,Manik baug
+12,0097,Bibvewadi,Mahadji Shinde chattri
+12,0120,Bibvewadi,Kondhwa khurd
+12,0121,Bibvewadi,NIBM
+12,0122,Bibvewadi,Meetha nagar
+12,0123,Bibvewadi,Bibvewadi gaanv
+12,0137,Bibvewadi,Sukhsagar nagar
+12,0138,Bibvewadi,Vishwakarma institute (VIT)
+12,0139,Bibvewadi,Upper indiranagar (Bibvewadi)
+12,0140,Bibvewadi,Kondhwa budruk
+13,0132,Dhankawadi,Chavan nagar
+13,0133,Dhankawadi,Dhankawadi Ambegaon pathar
+13,0134,Dhankawadi,Dhanwadi gaanv
+13,0135,Dhankawadi,Chaitanya nagar- Dhankawadi
+13,0136,Dhankawadi,Balaji nagar
+13,0141,Dhankawadi,Katraj gaanv
+13,0142,Dhankawadi,Rajeev Gandhi zoo
+13,0143,Dhankawadi,Bharti Vidyapeeth
+13,0144,Dhankawadi,Aagam mandir Katraj
+14,0042,Hadapsar,Magarpatta-Hadapsar
+14,0043,Hadapsar,Hadapsar Audyogik Vasahat
+14,0044,Hadapsar,Saint Patrick town
+14,0089,Hadapsar,Wanorie gaanv
+14,0090,Hadapsar,Ramtekdi
+14,0091,Hadapsar,Hadapsar gaanv
+14,0092,Hadapsar,Gliding centre
+14,0093,Hadapsar,Sadhana vidyalay
+14,0094,Hadapsar,Satavwadi
+14,0095,Hadapsar,Kaleborate nagar
+14,0096,Hadapsar,Mohemmad wadi
